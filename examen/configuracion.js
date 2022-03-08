@@ -1,5 +1,5 @@
 const config = {
-    DB_URL: 'mongodb+srv://daniel:6020@cluster0.di2vq.mongodb.net/test',
+    DB_URL: '',
     PUERTO: 3000
 }
 
